@@ -4,3 +4,4 @@ model_complete.h5
 dataset
 regression_model.h5
 chatbot_model.h5
+model.tflearn
